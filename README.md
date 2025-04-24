@@ -1,2 +1,12 @@
-# n8n-node-qwen
-N8N Node Qwen Alibaba cloud
+# Qwen Model Node for n8n
+
+## Description
+This node allows you to interact with Qwen models from Alibaba Cloud in n8n.
+
+## Installation
+
+### Using npm
+
+1. Install the node via npm:
+   ```bash
+   npm install @salomaopublicidade/qwen-n8n-node
